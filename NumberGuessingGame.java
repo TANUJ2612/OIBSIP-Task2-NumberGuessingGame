@@ -1,4 +1,5 @@
 #OIBSIP
+ 
 import java.util.Scanner;
  
 public class NumberGuessing {
